@@ -8,7 +8,9 @@
     Java
     
 Boolean : false , true
+
 char : 문자
+
 String : 문자열
 
 반복문 : for 문
