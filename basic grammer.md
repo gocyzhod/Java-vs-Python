@@ -191,13 +191,14 @@ public class ArrayListTest {
     기능 3. remove()
     추가했던 값을 삭제할 때 remove()
     
+'''
 import java.util.ArrayList;
     
 import java.util.Arrays;
 
 public class ArrayListTest {
     
-    public static void main(String[] args) {
+   public static void main(String[] args) {
     
         ArrayList<String> colors = new ArrayList<>(Arrays.asList("Black", "White", "Green", "Red"));
     
@@ -216,6 +217,7 @@ public class ArrayListTest {
     }
     
 }
+'''   
     
     기능 4. 값 존재 유무 확인
     contains()
