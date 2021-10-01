@@ -191,11 +191,9 @@ public class ArrayListTest {
     기능 3. remove()
     추가했던 값을 삭제할 때 remove()
     
-'''
+'''java
 import java.util.ArrayList;
-    
 import java.util.Arrays;
-
 public class ArrayListTest {
     
    public static void main(String[] args) {
